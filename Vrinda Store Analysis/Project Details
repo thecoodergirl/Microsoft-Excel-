@@ -1,0 +1,31 @@
+Title: VRINDA Store Data Analysis: From Data Cleaning to Dynamic Dashboard ( Learning Credit - Rishabh Mishra )
+Introduction: In this project, we cleaned up messy data from VRINDA Store and used Excel to analyze it. Then, we built a cool dashboard to show what we found.
+Objective: Vrinda Store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
+Samples Questions: 
+Compare the sales and orders using single chart.
+Which month got the highest sales and orders?
+Who purchased more men or women in 2022?
+What are diffrent order Status?
+List top 5 states contributing sales?
+Relation between age and gender based on number of orders. 
+Which Chaneel is contributing to maximum sales? 
+Highest selling category? , etc
+
+Project Steps:
+
+    Cleaning Up Data:
+        We fixed mistakes, removed duplicates, and made sure everything was neat and tidy.
+
+    Working with Data:
+        We used Excel to crunch numbers and find out things like total sales, popular products, and who buys the most.
+
+    Finding Insights:
+        We looked at trends over time, compared different things, and found out what's making the store tick.
+
+    Making the Dashboard:
+        We created a cool dashboard in Excel that lets you see all the important stuff at a glance. You can click around and         explore the data yourself!
+
+Conclusion:
+By cleaning up the data and digging into it with Excel, we learned a lot about VRINDA Store. The dashboard we made lets anyone easily see what we found.
+
+ 
